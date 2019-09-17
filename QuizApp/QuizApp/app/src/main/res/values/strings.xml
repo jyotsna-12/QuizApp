@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="first_ques"> Q1. Which country will host the G20 summit in 2022?</string>
+    <string name="third_ques">Q3. Which is the parent company of Tech giant "GOOGLE"?</string>
+    <string name="second_ques">Q2. Which of the following countries are in BRICS association?</string>
+    <string name="fourth_question">Q4.Which state in India has smallest area? </string>
+    <string name="des">World map picture</string>
+    <string name="option1">India</string>
+    <string name="option2">France</string>
+    <string name="option3">Germany</string>
+    <string name="option4">Singapore</string>
+    <string name="check2">Brazil</string>
+    <string name="check3">Singapore</string>
+    <string name="check4">Russia</string>
+    <string name="check5">Colombia</string>
+    <string name="hint">Enter the Answer</string>
+    <string name="submit">Submit</string>
+
+
+
+</resources>
